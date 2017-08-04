@@ -1,5 +1,5 @@
 # Collaborative-FIltering
-Item based collaborative filtering  on movies rating data set with Spark 
+Item based collaborative filtering  on movies rating dataset with Spark 
 
 The dataset used had data from 943 users and 100,000 ratings on 1682 items (movies). The data can be downloaded from the grouplens.org website. The dataset is old and will not include recent movie names.
 
